@@ -9,7 +9,7 @@
         Implement a preprinted invoice report for invoices
     """,
 
-    'author': "",
+    'author': "Camilo Ramirez",
     'website': "",
 
     # Categories can be used to filter modules in modules listing
